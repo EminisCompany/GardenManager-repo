@@ -24,7 +24,7 @@
     "DownloadLinkUpdate": "https://github.com/EminisCompany/GardenManager-repo/releases/download/v0.2.0/latest.zip",
     "CategoryTags": [],
     "ImageUrls": [],
-    "IconUrl": null,
+    "IconUrl": "https://raw.githubusercontent.com/EminisCompany/GardenManager-repo/main/icon.png",
     "AcceptsFeedback": false
   }
 ]
