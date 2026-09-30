@@ -3,7 +3,7 @@
     "Author": "EMCO",
     "Name": "Garden Manager",
     "InternalName": "GardenManager",
-    "AssemblyVersion": "0.3.1.0",
+    "AssemblyVersion": "0.3.2.0",
     "TestingAssemblyVersion": null,
     "Description": "Tracks all your housing gardens and planters across characters. Timers start automatically when you plant, with grow times, watering reminders, an overlay, server-bar summary and harvest log.",
     "Punchline": "See every garden and plant timer at a glance.",
@@ -22,13 +22,13 @@
     "LoadRequiredState": 0,
     "LoadSync": false,
     "DownloadCount": 0,
-    "LastUpdate": 1790796997,
-    "DownloadLinkInstall": "https://github.com/EminisCompany/GardenManager-repo/releases/download/v0.3.1/latest.zip",
-    "DownloadLinkTesting": "https://github.com/EminisCompany/GardenManager-repo/releases/download/v0.3.1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/EminisCompany/GardenManager-repo/releases/download/v0.3.1/latest.zip",
+    "LastUpdate": 1790797210,
+    "DownloadLinkInstall": "https://github.com/EminisCompany/GardenManager-repo/releases/download/v0.3.2/latest.zip",
+    "DownloadLinkTesting": "https://github.com/EminisCompany/GardenManager-repo/releases/download/v0.3.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/EminisCompany/GardenManager-repo/releases/download/v0.3.2/latest.zip",
     "CategoryTags": [],
     "ImageUrls": [],
-    "IconUrl": "https://raw.githubusercontent.com/EminisCompany/GardenManager-repo/main/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/EminisCompany/GardenManager-repo/main/icon.png?v=2",
     "AcceptsFeedback": false
   }
 ]
